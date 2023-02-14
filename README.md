@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @ritzesrepo
 - 👀 I’m interested in ...
   - Linux
+  - Automation
   - Note-taking
 - 🌱 I’m currently learning ...
   - Git for version control
+  - Vim, Lua, etc.
+  - Bash
+  - Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
