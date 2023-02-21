@@ -4,7 +4,7 @@
   - Automation
   - Note-taking
 - 🌱 I’m currently learning ...
-  - Git for version control
+  - Git
   - Vim, Lua, etc.
   - Bash
   - Python
