@@ -14,10 +14,11 @@ Currently working towards:
 - Write install scripts
 
 I get all this work done on a Lenovo Thinkpad X1 Carbon Gen 7 system board that I managed to get working inside of an X1 Yoga Gen 5 chassis.
-If not; it's probbaly one of my like 20 other Thinkpads i got laying around here.
- 
-                    Arch Linux ...btw 
-                    Wayland 
-                    Hyprland 
-                    Kitty 
-                    Zsh w/ a few plugins
+If not; it's probably one of my like 20 other Thinkpads I got lying around here.
+
+Current config:
+Arch Linux ...btw 
+Wayland 
+Hyprland 
+Kitty 
+Zsh w/ a few plugins
