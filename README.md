@@ -17,8 +17,8 @@ I get all this work done on a Lenovo Thinkpad X1 Carbon Gen 7 system board that 
 If not; it's probably one of my like 20 other Thinkpads I got lying around here.
 
 Current config:
-Arch Linux ...btw 
-Wayland 
-Hyprland 
-Kitty 
-Zsh w/ a few plugins
+- Arch Linux ...btw 
+- Wayland 
+- Hyprland 
+- Kitty 
+- Zsh w/ a few plugins
