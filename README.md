@@ -1,17 +1,23 @@
-- 👋 Hi, I’m @ritzesrepo
-- 👀 I’m interested in ...
-  - Linux
-  - Automation
-  - Note-taking
-- 🌱 I’m currently learning ...
-  - Git
-  - Vim, Lua, etc.
-  - Bash
-  - Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, this is @ritzesrepo
+I am an Information Assurance and Cyber Defense major at Northern Michigan University School of Business.
 
-<!---
-ritzesrepo/ritzesrepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I hardly know how to actually code, BEWARE!
+
+Currently working towards:
+- Linux mastery
+- More Python
+- More automotive hacking
+- Hacking!
+- Want to learn some Lua, for neovim purposes
+- Fix mintvim (IMPOSIBLE)
+- Clean up dot files
+- Write install scripts
+
+I get all this work done on a Lenovo Thinkpad X1 Carbon Gen 7 system board that I managed to get working inside of an X1 Yoga Gen 5 chassis.
+If not; it's probbaly one of my like 20 other Thinkpads i got laying around here.
+ 
+                    Arch Linux ...btw 
+                    Wayland 
+                    Hyprland 
+                    Kitty 
+                    Zsh w/ a few plugins
