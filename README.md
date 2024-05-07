@@ -6,8 +6,7 @@ I hardly know how to actually code, BEWARE!
 Currently working towards:
 - Linux
 - Learn c
-- Hacking!
-- Want to learn some Lua, for neovim purposes
+- TMUX?
 - Fix mintvim (IMPOSIBLE)
 - Clean up dot files
 - Write install scripts (ALPS)
@@ -21,3 +20,4 @@ Current config:
 - Hyprland 
 - Kitty 
 - Zsh w/ a few plugins
+- Neovim
