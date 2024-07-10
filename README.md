@@ -38,7 +38,7 @@ Another of those
 - I use alot of different drives in this and format them alot
   
 Another
-Has a web server I keep up and docker containers i spin up on occasion with stuff like kibana, a wordpress site from time to time, a db of some sort if I so wish--lab stuff.
+Has a web server I keep up and docker containers i spin up on occasion with stuff like grafana, a wordpress site from time to time, a db of some sort if I so wish--lab stuff.
 - Debian
 - XFCE
 
