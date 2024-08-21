@@ -5,10 +5,9 @@ Not that great at this git thing, i have only had this for a while, just a littl
 
 Trying to learn how to make things so that I can understand things:
 - Always more linux
-- Learn c then go
-- TMUX?
+- Systems programing
 - Fix mintvim (IMPOSIBLE)
-- post all my diffrent dot files
+- Post all my dot files
 - Write an install script for quick river wm builds
 
 Things I live in:
