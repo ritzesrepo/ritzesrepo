@@ -15,13 +15,16 @@ A very simple fortune-like random-quote-from-file CLI app written in Go with [Co
    - That but a nix config
 - Security Onion
 - Post dots
+
 #### Things I live in:
 - Kitty 
 - Zsh
 - Neovim w/ very simple config
 
-#### Daily driver
-A Lenovo Thinkpad X1 Carbon Gen 7 system board that I managed to get working inside of an X1 Yoga Gen 5 chassis.
+## Hardware:
+
+### Daily driver
+#### A Lenovo Thinkpad X1 Carbon Gen 7 system board that I managed to get working inside of an X1 Yoga Gen 5 chassis.
 - Arch Linux
 - Hyprland (Wayland)
 #### A Yoga 2 11
@@ -30,7 +33,7 @@ A Lenovo Thinkpad X1 Carbon Gen 7 system board that I managed to get working ins
 #### A Thinkpad T420i 
 - Gentoo
 - Broken
-#### A few X131e s
+#### A few X131e's
 Used here and there for random homelab fun.
 Docker containers, grafana, wordpress, random databases.
 - Debian or Nix
