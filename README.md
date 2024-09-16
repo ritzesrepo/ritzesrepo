@@ -8,18 +8,11 @@ A very simple fortune-like random-quote-from-file CLI app written in Go with [Co
 
 # About
 
-#### Trying to learn/todo:
-- Systems programming
-- Fix mintvim (IMPOSIBLE)
-- Write post-install/install shell script for quick river wm
-   - That but a nix config
-- Security Onion
-- Post dots
-
 #### Things I live in:
 - Kitty 
 - Zsh
 - Neovim w/ very simple config
+- New river config soon
 
 ## Hardware:
 
