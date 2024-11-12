@@ -4,7 +4,6 @@ I have a degree in Information Assurance and Cyber Defense from the Northern Mic
 # Projects
 
 - [Fortao](https://github.com/ritzesrepo/fortao)
-A very simple fortune-like random-quote-from-file CLI app written in Go with [Cobra](https://github.com/spf13/cobra).
 
 # About
 
